@@ -5,7 +5,8 @@ Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving o
 🚧 **I'm currently in the process of cleaning up my profile and this README, so don't be alarmed if you spot something missing!** 🚧
 
 ## 🚀 Projects
-* 🙎🏻‍♀️ **Jacklyn.dev** ([live preview](https://jacklyn.dev) | [source code](https://github.com/JackBiggin))
+* 🙎🏻‍♀️ **Jacklyn.dev** ([live preview](https://jacklyn.dev) | [source code](https://github.com/JackBiggin/jacklyn.dev))
+  * *my personal website*
 
 ## 👩‍💻 Hackathon Projects
 > Heads up! Some of these are pretty old, and they were all built within 24-36 hours, so might have messy code or vulnerabilities.
