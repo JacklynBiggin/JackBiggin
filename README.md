@@ -6,7 +6,7 @@ Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving o
 
 ## 🚀 Projects
 * 🙎🏻‍♀️ **Jacklyn.dev** ([live preview](https://jacklyn.dev) | [source code](https://github.com/JackBiggin/jacklyn.dev))
-  * *my personal website*
+  * my portfolio website - *built with Next.js*
 
 ## 👩‍💻 Hackathon Projects
 > Heads up! Some of these are pretty old, and they were all built within 24-36 hours, so might have messy code or vulnerabilities.
