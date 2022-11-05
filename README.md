@@ -1,11 +1,22 @@
 # Hey, I'm Jacklyn! 👋
 
-Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving opportunities to young people to break into tech. You can learn more about me over on my [personal website](https://jacklyn.dev). You can also find me on [LinkedIn](https://linkedin.com/in/JackBiggin), [Twitter](https://twitter.com/JackBiggin), [YouTube](https://youtube.com/JackBiggin) and [Twitch](https://twitch.tv/JacklynBiggin).
+Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving opportunities to young people to break into tech. You can learn more about me over on my [personal website](https://jacklyn.dev), or you can download my resume [here](https://www.jacklyn.dev/Jacklyn%20Biggin%20Resume.pdf). You can also find me on [LinkedIn](https://linkedin.com/in/JackBiggin), [Twitter](https://twitter.com/JackBiggin), [YouTube](https://youtube.com/JackBiggin) and [Twitch](https://twitch.tv/JacklynBiggin).
 
 
 ## 🚀 Projects
 * 🙎🏻‍♀️ **Jacklyn.dev** ([live preview](https://jacklyn.dev) | [source code](https://github.com/JackBiggin/jacklyn.dev))
   * my portfolio website - *built with Next.js*
+
+## 🌟 Demo/Sample Apps
+I've built a ton of sample bots/apps/automations over on [Autocode](https://autocode.com). Here's some that I recommend checking out!
+* [📧 Webflow Contact Form with Routing, powered by Postmark](https://autocode.com/webflow/apps/webflow-forms-demo/)
+* [📣 Slack Announcement Scheduler using Notion](https://autocode.com/notion/apps/notion-announcer/)
+* [🛍️ Add WooCommerce Orders to Airtable using Webhooks](https://autocode.com/airtable/apps/woocommerce/)
+* [✅ Discord EmaiL Verification Bot, powered by Gmail](https://autocode.com/discord/apps/discord-email-verification/)
+* [🛠️ Zapier and Make.com HTML Webscraping Parser](https://autocode.com/autocode/apps/make-parser/)
+* [⏰ Time-limited Issue Claiming GitHub Bot](https://autocode.com/github/apps/github-issue-assigner/)
+* [💁 Auth0 and Airtable Integration - Customer Portal Demo](https://autocode.com/airtable/apps/auth0-airtable/)
+* [🏆 Discord Leaderboard powered by Airtable](https://autocode.com/discord/apps/discord-leaderboard/)
 
 ## 👩‍💻 Hackathon Projects
 > Heads up! Some of these are pretty old, and they were all built within 24-36 hours, so might have messy code or vulnerabilities.
