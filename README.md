@@ -1,6 +1,6 @@
 # Hey, I'm Jacklyn! 👋
 
-Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving opportunities to young people to break into tech. You can learn more about me over on my [personal website](https://jacklyn.dev), or you can download my resume [here](https://www.jacklyn.dev/Jacklyn%20Biggin%20Resume.pdf). You can also find me on [LinkedIn](https://linkedin.com/in/JackBiggin), [Twitter](https://twitter.com/JackBiggin), [YouTube](https://youtube.com/JackBiggin) and [Twitch](https://twitch.tv/JacklynBiggin).
+Welcome to my GitHub profile! TL;DR: I'm a developer advocate who loves giving opportunities to young people to break into tech. You can learn more about me over on my [personal website](https://jacklyn.dev), or you can download my resume [here](https://www.jacklyn.dev/Jacklyn%20Biggin%20Resume.pdf). You can also find me on [LinkedIn](https://linkedin.com/in/JackBiggin), [Polywork](https://timeline.jacklyn.dev), [Twitter](https://twitter.com/JackBiggin), [YouTube](https://youtube.com/JackBiggin) and [Twitch](https://twitch.tv/JacklynBiggin).
 
 
 ## 🚀 Projects
